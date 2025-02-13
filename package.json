@@ -1,0 +1,9 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "description": "The correct name for Node.js's `net` module.",
+  "main": "tcp.js",
+  "repository": "",
+  "author": "",
+  "license": "BSD-2-Clause"
+}
